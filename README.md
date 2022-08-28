@@ -1,6 +1,6 @@
 # CS-351-Systems-Programming-
 
-This repository contains all the labs for my systems programming class.
+This repository contains all the labs for my systems programming class. Refer to PDF files for a description
 
 Lab 1 and lab 2 are not available since we didn't have to submit anything. We just connected to the server and the professor was notified when we passed each phase
 
